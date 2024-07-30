@@ -67,7 +67,7 @@ a{
     font-size: 22px;
     transition: .5s;
     margin-bottom: 5px;
-	color: #4371C4;
+	color: white;
 }
  .btn-primary:focus, select:focus, textarea:focus, input:focus{
      box-shadow: none !important;
